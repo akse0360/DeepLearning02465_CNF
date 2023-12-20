@@ -1,4 +1,4 @@
-# DTU 02465 - Deep Learning project - Group 18.1
+# DTU 02465 - Deep Learning project 18 - Group 149
 ## Implementing, understanding and analysis of conditional flow matching
 
 ### Introduction:
